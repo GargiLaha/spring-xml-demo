@@ -7,7 +7,11 @@ public class Movie
 //reference of Actor class
   private Actor actor;
 
+
+
   //constructor
+
+
   public Movie(Actor actor) {
     this.actor = actor;
   }

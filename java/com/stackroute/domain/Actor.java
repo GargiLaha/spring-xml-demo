@@ -8,6 +8,11 @@ public class Actor
     private int age;
 
     //Constructor
+
+
+  public Actor() {
+  }
+
   public Actor(String name, String gender, int age) {
     this.name = name;
     this.gender = gender;
